@@ -1,2 +1,2 @@
 #!/bin/bash
-touch chown betty hello
+rwx chown betty hello
